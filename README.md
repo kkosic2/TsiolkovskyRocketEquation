@@ -52,26 +52,14 @@ The rocket equation: <br/>
 <img src="https://i.imgur.com/ojSbSKy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-What does isp stand for?:  <br/>
+ISP is the efficiency of your rocket engine:  <br/>
 <img src="https://i.imgur.com/MrPko4c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Choose your orbital destination: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+g is the gravitational constant 9.81 m/s2: <br/>
+<img src="https://i.imgur.com/oU0MeDo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Your maximum payload is calculated:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-OR enter your payload:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Possible orbital destinations are calculated:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-OR display engine specifications:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+m0/m1 is the mass ratio (initial mass/final mass):  <br/>
+<img src="https://i.imgur.com/Qgamh9U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
