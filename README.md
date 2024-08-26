@@ -19,45 +19,50 @@ Project consists of a simple C++ program that walks the user through choosing a 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/7ZLEj3v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7ZLEj3v.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
 Select your spacecraft:  <br/>
-<img src="https://i.imgur.com/9liQxav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9liQxav.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
 Choose your orbital destination: <br/>
-<img src="https://i.imgur.com/nkc7D6l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nkc7D6l.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
 Your maximum payload is calculated:  <br/>
-<img src="https://i.imgur.com/jRXyy5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jRXyy5x.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
 OR enter your payload:  <br/>
-<img src="https://i.imgur.com/X0CPTpR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X0CPTpR.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
 Possible orbital destinations are calculated:  <br/>
-<img src="https://i.imgur.com/kSYLddY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kSYLddY.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
 OR display engine specifications:  <br/>
-<img src="https://i.imgur.com/fOGrjUe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fOGrjUe.png" height="80%" width="80%" alt="Program Steps"/>
 </p>
 
 <h2>Tsiolkovsky Rocket Equation Explanation:</h2>
 <p align="center">
 The rocket equation: <br/>
-<img src="https://i.imgur.com/ojSbSKy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ojSbSKy.png" height="80%" width="80%" alt="Rocket Equation Steps"/>
 <br />
 <br />
 ISP is the efficiency of your rocket engine.
 g is the gravitational constant 9.81 m/s2:  <br/>
-<img src="https://i.imgur.com/XVicfVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XVicfVF.png" height="80%" width="80%" alt="Rocket Equation Steps"/>
 <br />
 <br />
 The ln is to mathematically describe how the velocity of the rocket changes as it burns fuel (mass).
 m0/m1 is the mass ratio (initial mass/final mass):  <br/>
-<img src="https://i.imgur.com/70YFbvd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/70YFbvd.png" height="80%" width="80%" alt="Rocket Equation Steps"/>
+<br />
+<br />
+ΔV is the change in velocity of the rocket. 
+Tells us how much maneuvering a spacecraft can do such as getting into orbit:  <br/>
+<img src="https://i.imgur.com/5pQ81Fv.png" height="80%" width="80%" alt="Rocket Equation Steps"/>
 </p>
