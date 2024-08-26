@@ -42,6 +42,36 @@ Possible orbital destinations are calculated:  <br/>
 <img src="https://i.imgur.com/kSYLddY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-OR Display engine specifications:  <br/>
+OR display engine specifications:  <br/>
 <img src="https://i.imgur.com/fOGrjUe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h2>Tsiolkovsky Rocket Equation Explanation:</h2>
+<p align="center">
+The rocket equation: <br/>
+<img src="https://i.imgur.com/ojSbSKy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+What does isp stand for?:  <br/>
+<img src="https://i.imgur.com/MrPko4c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Choose your orbital destination: <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Your maximum payload is calculated:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+OR enter your payload:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Possible orbital destinations are calculated:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+OR display engine specifications:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
