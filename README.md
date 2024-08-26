@@ -26,12 +26,12 @@ Select your spacecraft:  <br/>
 <img src="https://i.imgur.com/9liQxav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Choose which your orbital destination: <br/>
+Choose your orbital destination: <br/>
 <img src="https://i.imgur.com/nkc7D6l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Your maximum payload is calculated:  <br/>
-<img src="https://i.imgur.com/nkc7D6l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jRXyy5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Or enter your payload:  <br/>
