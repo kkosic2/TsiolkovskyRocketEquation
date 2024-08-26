@@ -52,15 +52,12 @@ The rocket equation: <br/>
 <img src="https://i.imgur.com/ojSbSKy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ISP is the efficiency of your rocket engine:  <br/>
-<img src="https://i.imgur.com/MrPko4c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ISP is the efficiency of your rocket engine.
+g is the gravitational constant 9.81 m/s2:  <br/>
+<img src="https://i.imgur.com/XVicfVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-g is the gravitational constant 9.81 m/s2: <br/>
-<img src="https://i.imgur.com/oU0MeDo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-The ln is to mathematically describe how the velocity of the rocket changes as it burns fuel (mass)
+The ln is to mathematically describe how the velocity of the rocket changes as it burns fuel (mass).
 m0/m1 is the mass ratio (initial mass/final mass):  <br/>
 <img src="https://i.imgur.com/70YFbvd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
