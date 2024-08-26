@@ -34,14 +34,14 @@ Your maximum payload is calculated:  <br/>
 <img src="https://i.imgur.com/jRXyy5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Or enter your payload:  <br/>
-<img src="https://i.imgur.com/9liQxav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+OR enter your payload:  <br/>
+<img src="https://i.imgur.com/X0CPTpR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Possible orbital destinations are calculated:  <br/>
-<img src="https://i.imgur.com/9liQxav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kSYLddY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Display engine specifications:  <br/>
-<img src="https://i.imgur.com/9liQxav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+OR Display engine specifications:  <br/>
+<img src="https://i.imgur.com/kSYLddY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
