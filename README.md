@@ -43,5 +43,5 @@ Possible orbital destinations are calculated:  <br/>
 <br />
 <br />
 OR Display engine specifications:  <br/>
-<img src="https://i.imgur.com/kSYLddY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fOGrjUe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
