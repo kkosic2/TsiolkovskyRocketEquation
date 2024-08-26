@@ -19,7 +19,7 @@ Project consists of a simple C++ program that walks the user through choosing a 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/vQQ3A64.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7ZLEj3v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select your spacecraft:  <br/>
