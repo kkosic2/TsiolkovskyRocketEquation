@@ -52,7 +52,7 @@ The Rocket Equation: <br/>
 <img src="https://i.imgur.com/ojSbSKy.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
 <br />
-ISP: <br/>
+<h4> ISP: <br/> <h4>
 <img src="https://i.imgur.com/XVicfVF.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
 The ISP (specific impulse) is the efficiency of your rocket engine. <br />
