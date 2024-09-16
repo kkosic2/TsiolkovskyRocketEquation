@@ -51,6 +51,7 @@ OR display engine specifications:  <br/>
 The Rocket Equation: <br/>
 <img src="https://i.imgur.com/ojSbSKy.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
+  
 <br />
 ISP: <br/> 
 <img src="https://i.imgur.com/XVicfVF.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
@@ -58,6 +59,7 @@ ISP: <br/>
 The ISP (specific impulse) is the efficiency of your rocket engine. <br />
 g is the gravitational constant. 
 <br />
+  
 <br />
 Mass Ratio: <br/>
 <img src="https://i.imgur.com/70YFbvd.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
@@ -65,6 +67,7 @@ Mass Ratio: <br/>
 m0/m1 is the mass ratio (initial mass/final mass). <br />
 The ln is to mathematically describe how the velocity of the rocket changes as it burns fuel (mass).
 <br />
+
 <br />
 Delta V <br/>
 <img src="https://i.imgur.com/5pQ81Fv.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
