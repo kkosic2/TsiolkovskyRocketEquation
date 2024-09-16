@@ -48,7 +48,7 @@ OR display engine specifications:  <br/>
 
 <h2>Tsiolkovsky Rocket Equation Explanation:</h2>
 <p align="center">
-The rocket equation: <br/>
+The Rocket Equation: <br/>
 <img src="https://i.imgur.com/ojSbSKy.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
 <br />
@@ -58,9 +58,11 @@ ISP: <br/>
 The ISP (specific impulse) is the efficiency of your rocket engine. g is the gravitational constant  
 <br />
 <br />
-The ln is to mathematically describe how the velocity of the rocket changes as it burns fuel (mass).
-m0/m1 is the mass ratio (initial mass/final mass):  <br/>
+Mass Ratio: <br/>
 <img src="https://i.imgur.com/70YFbvd.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
+<br/>
+The ln is to mathematically describe how the velocity of the rocket changes as it burns fuel (mass).
+m0/m1 is the mass ratio (initial mass/final mass).
 <br />
 <br />
 ΔV is the change in velocity of the rocket. 
