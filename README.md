@@ -53,7 +53,9 @@ The rocket equation: <br/>
 <br />
 <br />
 ISP: <br/>
+<p align="center">
 <img src="https://i.imgur.com/XVicfVF.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
+<br />
 The ISP (specific impulse) is the efficiency of your rocket engine. g is the gravitational constant  
 <br />
 <br />
